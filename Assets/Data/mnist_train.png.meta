@@ -1,0 +1,1476 @@
+fileFormatVersion: 2
+guid: aad9484f87058684286e3f680aefc86b
+timeCreated: 1491096251
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: mnist_train_0
+    21300002: mnist_train_1
+    21300004: mnist_train_2
+    21300006: mnist_train_3
+    21300008: mnist_train_4
+    21300010: mnist_train_5
+    21300012: mnist_train_6
+    21300014: mnist_train_7
+    21300016: mnist_train_8
+    21300018: mnist_train_9
+    21300020: mnist_train_10
+    21300022: mnist_train_11
+    21300024: mnist_train_12
+    21300026: mnist_train_13
+    21300028: mnist_train_14
+    21300030: mnist_train_15
+    21300032: mnist_train_16
+    21300034: mnist_train_17
+    21300036: mnist_train_18
+    21300038: mnist_train_19
+    21300040: mnist_train_20
+    21300042: mnist_train_21
+    21300044: mnist_train_22
+    21300046: mnist_train_23
+    21300048: mnist_train_24
+    21300050: mnist_train_25
+    21300052: mnist_train_26
+    21300054: mnist_train_27
+    21300056: mnist_train_28
+    21300058: mnist_train_29
+    21300060: mnist_train_30
+    21300062: mnist_train_31
+    21300064: mnist_train_32
+    21300066: mnist_train_33
+    21300068: mnist_train_34
+    21300070: mnist_train_35
+    21300072: mnist_train_36
+    21300074: mnist_train_37
+    21300076: mnist_train_38
+    21300078: mnist_train_39
+    21300080: mnist_train_40
+    21300082: mnist_train_41
+    21300084: mnist_train_42
+    21300086: mnist_train_43
+    21300088: mnist_train_44
+    21300090: mnist_train_45
+    21300092: mnist_train_46
+    21300094: mnist_train_47
+    21300096: mnist_train_48
+    21300098: mnist_train_49
+    21300100: mnist_train_50
+    21300102: mnist_train_51
+    21300104: mnist_train_52
+    21300106: mnist_train_53
+    21300108: mnist_train_54
+    21300110: mnist_train_55
+    21300112: mnist_train_56
+    21300114: mnist_train_57
+    21300116: mnist_train_58
+    21300118: mnist_train_59
+    21300120: mnist_train_60
+    21300122: mnist_train_61
+    21300124: mnist_train_62
+    21300126: mnist_train_63
+    21300128: mnist_train_64
+    21300130: mnist_train_65
+    21300132: mnist_train_66
+    21300134: mnist_train_67
+    21300136: mnist_train_68
+    21300138: mnist_train_69
+    21300140: mnist_train_70
+    21300142: mnist_train_71
+    21300144: mnist_train_72
+    21300146: mnist_train_73
+    21300148: mnist_train_74
+    21300150: mnist_train_75
+    21300152: mnist_train_76
+    21300154: mnist_train_77
+    21300156: mnist_train_78
+    21300158: mnist_train_79
+    21300160: mnist_train_80
+    21300162: mnist_train_81
+    21300164: mnist_train_82
+    21300166: mnist_train_83
+    21300168: mnist_train_84
+    21300170: mnist_train_85
+    21300172: mnist_train_86
+    21300174: mnist_train_87
+    21300176: mnist_train_88
+    21300178: mnist_train_89
+    21300180: mnist_train_90
+    21300182: mnist_train_91
+    21300184: mnist_train_92
+    21300186: mnist_train_93
+    21300188: mnist_train_94
+    21300190: mnist_train_95
+    21300192: mnist_train_96
+    21300194: mnist_train_97
+    21300196: mnist_train_98
+    21300198: mnist_train_99
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mnist_train_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2149.85
+        width: 117.2
+        height: 113.15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mnist_train_1
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 2149.85
+        width: 117.2
+        height: 113.15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mnist_train_2
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 2149.85
+        width: 117.2
+        height: 113.15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mnist_train_3
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 2149.85
+        width: 117.2
+        height: 113.15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mnist_train_4
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 2149.85
+        width: 117.2
+        height: 113.15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mnist_train_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2036.85
+        width: 117.2
+        height: 113.15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mnist_train_6
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 2036.85
+        width: 117.2
+        height: 113.15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mnist_train_7
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 2036.85
+        width: 117.2
+        height: 113.15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mnist_train_8
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 2036.85
+        width: 117.2
+        height: 113.15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mnist_train_9
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 2036.85
+        width: 117.2
+        height: 113.15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mnist_train_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1923.85
+        width: 117.2
+        height: 113.15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mnist_train_11
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1923.85
+        width: 117.2
+        height: 113.15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mnist_train_12
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1923.85
+        width: 117.2
+        height: 113.15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mnist_train_13
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1923.85
+        width: 117.2
+        height: 113.15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mnist_train_14
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1923.85
+        width: 117.2
+        height: 113.15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mnist_train_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1810.85
+        width: 117.2
+        height: 113.15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mnist_train_16
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1810.85
+        width: 117.2
+        height: 113.15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mnist_train_17
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1810.85
+        width: 117.2
+        height: 113.15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mnist_train_18
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1810.85
+        width: 117.2
+        height: 113.15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mnist_train_19
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1810.85
+        width: 117.2
+        height: 113.15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mnist_train_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1697.85
+        width: 117.2
+        height: 113.15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mnist_train_21
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1697.85
+        width: 117.2
+        height: 113.15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mnist_train_22
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1697.85
+        width: 117.2
+        height: 113.15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mnist_train_23
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1697.85
+        width: 117.2
+        height: 113.15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mnist_train_24
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1697.85
+        width: 117.2
+        height: 113.15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mnist_train_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1584.85
+        width: 117.2
+        height: 113.15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mnist_train_26
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1584.85
+        width: 117.2
+        height: 113.15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mnist_train_27
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1584.85
+        width: 117.2
+        height: 113.15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mnist_train_28
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1584.85
+        width: 117.2
+        height: 113.15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mnist_train_29
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1584.85
+        width: 117.2
+        height: 113.15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mnist_train_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1471.85
+        width: 117.2
+        height: 113.15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mnist_train_31
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1471.85
+        width: 117.2
+        height: 113.15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mnist_train_32
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1471.85
+        width: 117.2
+        height: 113.15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mnist_train_33
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1471.85
+        width: 117.2
+        height: 113.15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mnist_train_34
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1471.85
+        width: 117.2
+        height: 113.15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mnist_train_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1358.85
+        width: 117.2
+        height: 113.15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mnist_train_36
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1358.85
+        width: 117.2
+        height: 113.15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mnist_train_37
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1358.85
+        width: 117.2
+        height: 113.15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mnist_train_38
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1358.85
+        width: 117.2
+        height: 113.15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mnist_train_39
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1358.85
+        width: 117.2
+        height: 113.15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mnist_train_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1245.85
+        width: 117.2
+        height: 113.15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mnist_train_41
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1245.85
+        width: 117.2
+        height: 113.15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mnist_train_42
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1245.85
+        width: 117.2
+        height: 113.15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mnist_train_43
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1245.85
+        width: 117.2
+        height: 113.15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mnist_train_44
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1245.85
+        width: 117.2
+        height: 113.15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mnist_train_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1132.85
+        width: 117.2
+        height: 113.15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mnist_train_46
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1132.85
+        width: 117.2
+        height: 113.15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mnist_train_47
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1132.85
+        width: 117.2
+        height: 113.15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mnist_train_48
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1132.85
+        width: 117.2
+        height: 113.15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mnist_train_49
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1132.85
+        width: 117.2
+        height: 113.15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mnist_train_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1019.85
+        width: 117.2
+        height: 113.15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mnist_train_51
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1019.85
+        width: 117.2
+        height: 113.15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mnist_train_52
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1019.85
+        width: 117.2
+        height: 113.15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mnist_train_53
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1019.85
+        width: 117.2
+        height: 113.15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mnist_train_54
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1019.85
+        width: 117.2
+        height: 113.15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mnist_train_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 906.85
+        width: 117.2
+        height: 113.15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mnist_train_56
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 906.85
+        width: 117.2
+        height: 113.15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mnist_train_57
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 906.85
+        width: 117.2
+        height: 113.15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mnist_train_58
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 906.85
+        width: 117.2
+        height: 113.15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mnist_train_59
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 906.85
+        width: 117.2
+        height: 113.15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mnist_train_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 793.85
+        width: 117.2
+        height: 113.15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mnist_train_61
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 793.85
+        width: 117.2
+        height: 113.15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mnist_train_62
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 793.85
+        width: 117.2
+        height: 113.15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mnist_train_63
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 793.85
+        width: 117.2
+        height: 113.15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mnist_train_64
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 793.85
+        width: 117.2
+        height: 113.15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mnist_train_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 680.85
+        width: 117.2
+        height: 113.15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mnist_train_66
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 680.85
+        width: 117.2
+        height: 113.15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mnist_train_67
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 680.85
+        width: 117.2
+        height: 113.15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mnist_train_68
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 680.85
+        width: 117.2
+        height: 113.15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mnist_train_69
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 680.85
+        width: 117.2
+        height: 113.15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mnist_train_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 567.85
+        width: 117.2
+        height: 113.15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mnist_train_71
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 567.85
+        width: 117.2
+        height: 113.15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mnist_train_72
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 567.85
+        width: 117.2
+        height: 113.15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mnist_train_73
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 567.85
+        width: 117.2
+        height: 113.15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mnist_train_74
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 567.85
+        width: 117.2
+        height: 113.15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mnist_train_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 454.85
+        width: 117.2
+        height: 113.15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mnist_train_76
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 454.85
+        width: 117.2
+        height: 113.15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mnist_train_77
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 454.85
+        width: 117.2
+        height: 113.15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mnist_train_78
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 454.85
+        width: 117.2
+        height: 113.15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mnist_train_79
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 454.85
+        width: 117.2
+        height: 113.15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mnist_train_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 341.85
+        width: 117.2
+        height: 113.15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mnist_train_81
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 341.85
+        width: 117.2
+        height: 113.15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mnist_train_82
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 341.85
+        width: 117.2
+        height: 113.15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mnist_train_83
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 341.85
+        width: 117.2
+        height: 113.15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mnist_train_84
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 341.85
+        width: 117.2
+        height: 113.15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mnist_train_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 228.85
+        width: 117.2
+        height: 113.15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mnist_train_86
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 228.85
+        width: 117.2
+        height: 113.15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mnist_train_87
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 228.85
+        width: 117.2
+        height: 113.15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mnist_train_88
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 228.85
+        width: 117.2
+        height: 113.15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mnist_train_89
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 228.85
+        width: 117.2
+        height: 113.15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mnist_train_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 115.85
+        width: 117.2
+        height: 113.15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mnist_train_91
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 115.85
+        width: 117.2
+        height: 113.15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mnist_train_92
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 115.85
+        width: 117.2
+        height: 113.15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mnist_train_93
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 115.85
+        width: 117.2
+        height: 113.15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mnist_train_94
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 115.85
+        width: 117.2
+        height: 113.15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mnist_train_95
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2.8499985
+        width: 117.2
+        height: 113.15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mnist_train_96
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 2.8499985
+        width: 117.2
+        height: 113.15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mnist_train_97
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 2.8499985
+        width: 117.2
+        height: 113.15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mnist_train_98
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 2.8499985
+        width: 117.2
+        height: 113.15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mnist_train_99
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 2.8499985
+        width: 117.2
+        height: 113.15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
